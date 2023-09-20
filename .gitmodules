@@ -1,0 +1,6 @@
+[submodule "artGallary-laravel"]
+	path = artGallary-laravel
+	url = https://github.com/Bassem272/artGallary-laravel
+[submodule "newArtGallery-angular"]
+	path = newArtGallery-angular
+	url = https://github.com/Bassem272/newArtGallery-angular
